@@ -1,7 +1,7 @@
-#Annotated Bibliography
+# Annotated Bibliography
 By: Josh Perrine
 
-##Source 1
+## Source 1
 
 **Citation:**
 
@@ -15,7 +15,7 @@ This website is a guide about the C# programming language. It has multiple diffe
 
 This is a very current source, being put out in 2023. The information on this website is very plentiful and very reliable. It is posted on the Microsoft website, and they were the company who had a huge influence on the creation of C#. This is a very useful website with a lot of helpful information.
 
-##Source 2
+## Source 2
 
 **Citation:**
 
@@ -29,7 +29,7 @@ This website is about Anders Hejlsberg, the person behind the creation of the C#
 
 This is a current source, being published in 2019. The publishers, Welcome to The Jungle, are a reliable website. They have published many articles that concern the computer science field, and they are still publishing articles today. This website can be useful for some history about the person who created C#.
 
-##Source 3
+## Source 3
 
 **Citation:**
 
@@ -45,7 +45,7 @@ This article is about asynchronous programming in C#, and it specifically looks 
 
 This article is somewhat recent, since it was published in 2014. I assume the authors are trustworthy and that it is a reliable source since I found it in a database at Xavier's online library. Some works have also cited this article, which helps with reliability. It is a little outdated, but asynchronous programming seems to be a prevalent topic in the C# programming language. I think this could help with the case study and provide some valuable information.
 
-##Source 4
+## Source 4
 
 **Citation:**
 
@@ -61,7 +61,7 @@ This article is about asynchronous programming in C#, and it specifically looks 
 
 This article is relatively recent, being published in 2017. The author and contents of the article seem to be reliable since I retrieved it from a database in Xavier's online library. The contents of the article interested me, and asynchronous programming looks to be a popular and interesting topic with C#. I believe this article could help contribute to the case study.
 
-##Source 5
+## Source 5
 
 **Citation:**
 
@@ -75,7 +75,7 @@ Our class textbook has a lot of information about the C# programming language. I
 
 Our class textbook is a current source since it was published in 2019. This is a very reliable source since it is being used as our class textbook. The information about C# is accurate and fundamental.
 
-##Source 6
+## Source 6
 
 **Citation:**
 
