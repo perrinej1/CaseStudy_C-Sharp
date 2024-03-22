@@ -1,4 +1,4 @@
-# History and Application
+# History and Application of C#
 
             C# is a popular programming language that has been widely used by various companies and individuals for many years. Starting in 1999, Anders Hejlsberg worked with Microsoft to create C#. He was the chief designer and lead architect of the team building the language. Hejlsberg is the main person credited and responsible for creating C# and is still working with Microsoft today as a Microsoft Technical Fellow. C# dates back to its first appearance in 2000, but the first official version wasn't released until January of 2002.
 
